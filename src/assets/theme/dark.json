@@ -1,0 +1,11 @@
+{
+    "mode": "dark",
+    "gradient" : ["#3652DC", "#28E6F6"],
+    "buttonGradient" : ["#345ADE", "#2ADFF5"],
+    "appGradient": ["#3652DC",  "#28E6F6"],
+    "appColor" : "#3652DC",
+    "mainColor": "#3652DC",
+    "textGradient" : ["#3652DC", "#4e68e6"],
+    "headerGradient": ["#3652DC",  "#28E6F6"]
+
+}

@@ -1,0 +1,4 @@
+export default {
+    ACTIVE_THEME : "ACTIVE_THEME",
+    ACTIVE_LANGUAGE: 'AVTIVE_LANGUAGE'
+}
